@@ -11,3 +11,6 @@ In this session participants are introduced to the [Building City Dashboards](ht
 
 ## Session Details
 Participants will be expected to bring their own laptop and should have downloaded the most recent version of QGIS prior to the session: https://qgis.org/en/site/forusers/download.html
+
+## Acknowledgements
+On behalf of the Building City Dashboards project we gratefully acknowledge funding from **Science Foundation Ireland** under the Investigator’s Award Program. **Award number: 15/IA/3090**
